@@ -11,7 +11,7 @@
 
 div {
     background-color: #00000030;
-    height: 100vh;
+    height: 150vh;
 
 }
 
@@ -49,3 +49,24 @@ button {
 a {
     text-decoration: none;
 }
+.wpp {
+    width: 20px;
+    height: 20px;
+    text-align: right;
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+
+}
+
+.ig-logo {
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin: 15px auto;
+    
+  
+}
+
