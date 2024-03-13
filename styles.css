@@ -8,12 +8,23 @@
 
     }
 
+    
+
+nav {
+    background-color: black;
+    border-radius: 500px;
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+    padding: 35px;
+    text-align: center;
+}
 
 div {
-    background-color: #00000030;
-    height: 150vh;
+    height: 200vh;
 
 }
+
 
 img {
     
@@ -28,6 +39,7 @@ img {
 
 h1 {
     text-align: center;
+    color: #FFF;
 }
 
 button {
@@ -39,15 +51,26 @@ button {
     border: none;
     border-radius: 25px;
     font-size: 15px;
-    color: dimgray;
+    color: black;
     box-shadow: 10px 10px 10px #000000;
     
     
 
 }
 
+section {
+padding-top: 10px;
+    background-color: rgba(red,red ,red, 0.5);
+    height: 150vh; 
+}
+
 a {
     text-decoration: none;
+}
+ 
+P {
+    text-align: center;
+    margin-top: 20px;
 }
 .wpp {
     width: 20px;
