@@ -16,12 +16,12 @@ nav {
     width: 250px;
     height: 290px;
     display: block;
-    margin: 0S auto;
+    margin: 0 auto;
     text-align: center;
 }
 
 div {
-    height: 200vh;
+    height: 100vh;
 
 }
 
@@ -62,7 +62,7 @@ button {
 section {
 padding-top: 10px;
     background-color: rgba(red,red ,red, 0.5);
-    height: 150vh; 
+    height: 100vh; 
 }
 
 a {
